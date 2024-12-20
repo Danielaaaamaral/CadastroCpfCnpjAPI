@@ -1,0 +1,17 @@
+C:\GIT\CadastroAPI\CadastroAPI.Application\obj\Debug\net8.0\CadastroAPI.Application.csproj.AssemblyReference.cache
+C:\GIT\CadastroAPI\CadastroAPI.Application\obj\Debug\net8.0\CadastroAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\CadastroAPI\CadastroAPI.Application\obj\Debug\net8.0\CadastroAPI.Application.AssemblyInfoInputs.cache
+C:\GIT\CadastroAPI\CadastroAPI.Application\obj\Debug\net8.0\CadastroAPI.Application.AssemblyInfo.cs
+C:\GIT\CadastroAPI\CadastroAPI.Application\obj\Debug\net8.0\CadastroAPI.Application.csproj.CoreCompileInputs.cache
+C:\GIT\CadastroAPI\CadastroAPI.Application\bin\Debug\net8.0\CadastroAPI.Application.deps.json
+C:\GIT\CadastroAPI\CadastroAPI.Application\bin\Debug\net8.0\CadastroAPI.Application.dll
+C:\GIT\CadastroAPI\CadastroAPI.Application\bin\Debug\net8.0\CadastroAPI.Application.pdb
+C:\GIT\CadastroAPI\CadastroAPI.Application\bin\Debug\net8.0\CadastroAPI.Domain.Core.dll
+C:\GIT\CadastroAPI\CadastroAPI.Application\bin\Debug\net8.0\CadastroAPI.Domain.dll
+C:\GIT\CadastroAPI\CadastroAPI.Application\bin\Debug\net8.0\CadastroAPI.Domain.Core.pdb
+C:\GIT\CadastroAPI\CadastroAPI.Application\bin\Debug\net8.0\CadastroAPI.Domain.pdb
+C:\GIT\CadastroAPI\CadastroAPI.Application\obj\Debug\net8.0\Cadastro.4B1A9906.Up2Date
+C:\GIT\CadastroAPI\CadastroAPI.Application\obj\Debug\net8.0\CadastroAPI.Application.dll
+C:\GIT\CadastroAPI\CadastroAPI.Application\obj\Debug\net8.0\refint\CadastroAPI.Application.dll
+C:\GIT\CadastroAPI\CadastroAPI.Application\obj\Debug\net8.0\CadastroAPI.Application.pdb
+C:\GIT\CadastroAPI\CadastroAPI.Application\obj\Debug\net8.0\ref\CadastroAPI.Application.dll

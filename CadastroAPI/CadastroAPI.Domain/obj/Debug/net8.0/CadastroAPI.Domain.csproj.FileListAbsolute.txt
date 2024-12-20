@@ -1,0 +1,11 @@
+C:\GIT\CadastroAPI\CadastroAPI.Domain\bin\Debug\net8.0\CadastroAPI.Domain.deps.json
+C:\GIT\CadastroAPI\CadastroAPI.Domain\bin\Debug\net8.0\CadastroAPI.Domain.dll
+C:\GIT\CadastroAPI\CadastroAPI.Domain\bin\Debug\net8.0\CadastroAPI.Domain.pdb
+C:\GIT\CadastroAPI\CadastroAPI.Domain\obj\Debug\net8.0\CadastroAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\CadastroAPI\CadastroAPI.Domain\obj\Debug\net8.0\CadastroAPI.Domain.AssemblyInfoInputs.cache
+C:\GIT\CadastroAPI\CadastroAPI.Domain\obj\Debug\net8.0\CadastroAPI.Domain.AssemblyInfo.cs
+C:\GIT\CadastroAPI\CadastroAPI.Domain\obj\Debug\net8.0\CadastroAPI.Domain.csproj.CoreCompileInputs.cache
+C:\GIT\CadastroAPI\CadastroAPI.Domain\obj\Debug\net8.0\CadastroAPI.Domain.dll
+C:\GIT\CadastroAPI\CadastroAPI.Domain\obj\Debug\net8.0\refint\CadastroAPI.Domain.dll
+C:\GIT\CadastroAPI\CadastroAPI.Domain\obj\Debug\net8.0\CadastroAPI.Domain.pdb
+C:\GIT\CadastroAPI\CadastroAPI.Domain\obj\Debug\net8.0\ref\CadastroAPI.Domain.dll

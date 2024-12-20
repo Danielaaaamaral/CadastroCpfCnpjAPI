@@ -1,0 +1,285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GIT\\CadastroAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5EF753-73A0-4831-BD17-0D9361FE9231}|CadastroAPI.Domain\\CadastroAPI.Domain.csproj|c:\\git\\cadastroapi\\cadastroapi.domain\\cadastroapi.domain.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{EE5EF753-73A0-4831-BD17-0D9361FE9231}|CadastroAPI.Domain\\CadastroAPI.Domain.csproj|solutionrelative:cadastroapi.domain\\cadastroapi.domain.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{919DEBD7-D1CC-40B6-BCB7-4665DA6C2D36}|CadastroAPI.csproj|c:\\git\\cadastroapi\\cadastroapi.domain\\obj\\debug\\net8.0\\.netcoreapp,version=v8.0.assemblyattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{919DEBD7-D1CC-40B6-BCB7-4665DA6C2D36}|CadastroAPI.csproj|solutionrelative:cadastroapi.domain\\obj\\debug\\net8.0\\.netcoreapp,version=v8.0.assemblyattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{919DEBD7-D1CC-40B6-BCB7-4665DA6C2D36}|CadastroAPI.csproj|c:\\git\\cadastroapi\\cadastroapi.domain.services\\obj\\debug\\net8.0\\.netcoreapp,version=v8.0.assemblyattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{919DEBD7-D1CC-40B6-BCB7-4665DA6C2D36}|CadastroAPI.csproj|solutionrelative:cadastroapi.domain.services\\obj\\debug\\net8.0\\.netcoreapp,version=v8.0.assemblyattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999DC71B-1425-4684-967D-69FDB7D35E2A}|CadastroAPi.Domain.Services\\CadastroAPi.Domain.Services.csproj|c:\\git\\cadastroapi\\cadastroapi.domain.services\\services\\services\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{999DC71B-1425-4684-967D-69FDB7D35E2A}|CadastroAPi.Domain.Services\\CadastroAPi.Domain.Services.csproj|solutionrelative:cadastroapi.domain.services\\services\\services\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1C4A6C-59E5-448F-8660-AD08F7099463}|CadastroAPi.Domain.Core\\CadastroAPi.Domain.Core.csproj|c:\\git\\cadastroapi\\cadastroapi.domain.core\\interfaces\\repositorys\\irepositorypessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1C4A6C-59E5-448F-8660-AD08F7099463}|CadastroAPi.Domain.Core\\CadastroAPi.Domain.Core.csproj|solutionrelative:cadastroapi.domain.core\\interfaces\\repositorys\\irepositorypessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1C4A6C-59E5-448F-8660-AD08F7099463}|CadastroAPi.Domain.Core\\CadastroAPi.Domain.Core.csproj|c:\\git\\cadastroapi\\cadastroapi.domain.core\\interfaces\\repositorys\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1C4A6C-59E5-448F-8660-AD08F7099463}|CadastroAPi.Domain.Core\\CadastroAPi.Domain.Core.csproj|solutionrelative:cadastroapi.domain.core\\interfaces\\repositorys\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999DC71B-1425-4684-967D-69FDB7D35E2A}|CadastroAPi.Domain.Services\\CadastroAPi.Domain.Services.csproj|c:\\git\\cadastroapi\\cadastroapi.domain.services\\services\\services\\servicepessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{999DC71B-1425-4684-967D-69FDB7D35E2A}|CadastroAPi.Domain.Services\\CadastroAPi.Domain.Services.csproj|solutionrelative:cadastroapi.domain.services\\services\\services\\servicepessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999DC71B-1425-4684-967D-69FDB7D35E2A}|CadastroAPi.Domain.Services\\CadastroAPi.Domain.Services.csproj|c:\\git\\cadastroapi\\cadastroapi.domain.services\\services\\services\\servicepessoajuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{999DC71B-1425-4684-967D-69FDB7D35E2A}|CadastroAPi.Domain.Services\\CadastroAPi.Domain.Services.csproj|solutionrelative:cadastroapi.domain.services\\services\\services\\servicepessoajuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{919DEBD7-D1CC-40B6-BCB7-4665DA6C2D36}|CadastroAPI.csproj|c:\\git\\cadastroapi\\obj\\debug\\net8.0\\.netcoreapp,version=v8.0.assemblyattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{919DEBD7-D1CC-40B6-BCB7-4665DA6C2D36}|CadastroAPI.csproj|solutionrelative:obj\\debug\\net8.0\\.netcoreapp,version=v8.0.assemblyattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{919DEBD7-D1CC-40B6-BCB7-4665DA6C2D36}|CadastroAPI.csproj|c:\\git\\cadastroapi\\obj\\debug\\net8.0\\cadastroapi.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{919DEBD7-D1CC-40B6-BCB7-4665DA6C2D36}|CadastroAPI.csproj|solutionrelative:obj\\debug\\net8.0\\cadastroapi.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{919DEBD7-D1CC-40B6-BCB7-4665DA6C2D36}|CadastroAPI.csproj|c:\\git\\cadastroapi\\cadastroapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{919DEBD7-D1CC-40B6-BCB7-4665DA6C2D36}|CadastroAPI.csproj|solutionrelative:cadastroapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1C4A6C-59E5-448F-8660-AD08F7099463}|CadastroAPi.Domain.Core\\CadastroAPi.Domain.Core.csproj|c:\\git\\cadastroapi\\cadastroapi.domain.core\\cadastroapi.domain.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB1C4A6C-59E5-448F-8660-AD08F7099463}|CadastroAPi.Domain.Core\\CadastroAPi.Domain.Core.csproj|solutionrelative:cadastroapi.domain.core\\cadastroapi.domain.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999DC71B-1425-4684-967D-69FDB7D35E2A}|CadastroAPi.Domain.Services\\CadastroAPi.Domain.Services.csproj|c:\\git\\cadastroapi\\cadastroapi.domain.services\\cadastroapi.domain.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{999DC71B-1425-4684-967D-69FDB7D35E2A}|CadastroAPi.Domain.Services\\CadastroAPi.Domain.Services.csproj|solutionrelative:cadastroapi.domain.services\\cadastroapi.domain.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5EF753-73A0-4831-BD17-0D9361FE9231}|CadastroAPI.Domain\\CadastroAPI.Domain.csproj|c:\\git\\cadastroapi\\cadastroapi.domain\\cadastroapi.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EE5EF753-73A0-4831-BD17-0D9361FE9231}|CadastroAPI.Domain\\CadastroAPI.Domain.csproj|solutionrelative:cadastroapi.domain\\cadastroapi.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CadastroAPI.Domain",
+              "DocumentMoniker": "C:\\GIT\\CadastroAPI\\CadastroAPI.Domain\\CadastroAPI.Domain.csproj",
+              "RelativeDocumentMoniker": "CadastroAPI.Domain\\CadastroAPI.Domain.csproj",
+              "ToolTip": "C:\\GIT\\CadastroAPI\\CadastroAPI.Domain\\CadastroAPI.Domain.csproj",
+              "RelativeToolTip": "CadastroAPI.Domain\\CadastroAPI.Domain.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-20T16:41:46.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CadastroAPI.Domain",
+              "DocumentMoniker": "C:\\GIT\\CadastroAPI\\CadastroAPI.Domain\\CadastroAPI.Domain.csproj",
+              "RelativeDocumentMoniker": "CadastroAPI.Domain\\CadastroAPI.Domain.csproj",
+              "ToolTip": "C:\\GIT\\CadastroAPI\\CadastroAPI.Domain\\CadastroAPI.Domain.csproj",
+              "RelativeToolTip": "CadastroAPI.Domain\\CadastroAPI.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-20T16:34:04.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CadastroAPi.Domain.Services",
+              "DocumentMoniker": "C:\\GIT\\CadastroAPI\\CadastroAPi.Domain.Services\\CadastroAPi.Domain.Services.csproj",
+              "RelativeDocumentMoniker": "CadastroAPi.Domain.Services\\CadastroAPi.Domain.Services.csproj",
+              "ToolTip": "C:\\GIT\\CadastroAPI\\CadastroAPi.Domain.Services\\CadastroAPi.Domain.Services.csproj",
+              "RelativeToolTip": "CadastroAPi.Domain.Services\\CadastroAPi.Domain.Services.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-20T16:33:57.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CadastroAPi.Domain.Core",
+              "DocumentMoniker": "C:\\GIT\\CadastroAPI\\CadastroAPi.Domain.Core\\CadastroAPi.Domain.Core.csproj",
+              "RelativeDocumentMoniker": "CadastroAPi.Domain.Core\\CadastroAPi.Domain.Core.csproj",
+              "ToolTip": "C:\\GIT\\CadastroAPI\\CadastroAPi.Domain.Core\\CadastroAPi.Domain.Core.csproj",
+              "RelativeToolTip": "CadastroAPi.Domain.Core\\CadastroAPi.Domain.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-20T16:32:47.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CadastroAPI",
+              "DocumentMoniker": "C:\\GIT\\CadastroAPI\\CadastroAPI.csproj",
+              "RelativeDocumentMoniker": "CadastroAPI.csproj",
+              "ToolTip": "C:\\GIT\\CadastroAPI\\CadastroAPI.csproj",
+              "RelativeToolTip": "CadastroAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-20T16:32:32.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CadastroAPI.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\GIT\\CadastroAPI\\obj\\Debug\\net8.0\\CadastroAPI.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\CadastroAPI.AssemblyInfo.cs",
+              "ToolTip": "C:\\GIT\\CadastroAPI\\obj\\Debug\\net8.0\\CadastroAPI.AssemblyInfo.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\CadastroAPI.AssemblyInfo.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAcwBQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:30:13.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "C:\\GIT\\CadastroAPI\\CadastroAPi.Domain.Services\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "CadastroAPi.Domain.Services\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ToolTip": "C:\\GIT\\CadastroAPI\\CadastroAPi.Domain.Services\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "CadastroAPi.Domain.Services\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:30:11.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "C:\\GIT\\CadastroAPI\\CadastroAPI.Domain\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "CadastroAPI.Domain\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ToolTip": "C:\\GIT\\CadastroAPI\\CadastroAPI.Domain\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "CadastroAPI.Domain\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:30:10.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "C:\\GIT\\CadastroAPI\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ToolTip": "C:\\GIT\\CadastroAPI\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIAwwAMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:30:05.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServicePessoaJuridica.cs",
+              "DocumentMoniker": "C:\\GIT\\CadastroAPI\\CadastroAPi.Domain.Services\\Services\\Services\\ServicePessoaJuridica.cs",
+              "RelativeDocumentMoniker": "CadastroAPi.Domain.Services\\Services\\Services\\ServicePessoaJuridica.cs",
+              "ToolTip": "C:\\GIT\\CadastroAPI\\CadastroAPi.Domain.Services\\Services\\Services\\ServicePessoaJuridica.cs",
+              "RelativeToolTip": "CadastroAPi.Domain.Services\\Services\\Services\\ServicePessoaJuridica.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:29:19.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServicePessoaFisica.cs",
+              "DocumentMoniker": "C:\\GIT\\CadastroAPI\\CadastroAPi.Domain.Services\\Services\\Services\\ServicePessoaFisica.cs",
+              "RelativeDocumentMoniker": "CadastroAPi.Domain.Services\\Services\\Services\\ServicePessoaFisica.cs",
+              "ToolTip": "C:\\GIT\\CadastroAPI\\CadastroAPi.Domain.Services\\Services\\Services\\ServicePessoaFisica.cs",
+              "RelativeToolTip": "CadastroAPi.Domain.Services\\Services\\Services\\ServicePessoaFisica.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:29:04.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceBase.cs",
+              "DocumentMoniker": "C:\\GIT\\CadastroAPI\\CadastroAPi.Domain.Services\\Services\\Services\\ServiceBase.cs",
+              "RelativeDocumentMoniker": "CadastroAPi.Domain.Services\\Services\\Services\\ServiceBase.cs",
+              "ToolTip": "C:\\GIT\\CadastroAPI\\CadastroAPi.Domain.Services\\Services\\Services\\ServiceBase.cs",
+              "RelativeToolTip": "CadastroAPi.Domain.Services\\Services\\Services\\ServiceBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:29:00.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "C:\\GIT\\CadastroAPI\\CadastroAPi.Domain.Core\\Interfaces\\Repositorys\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "CadastroAPi.Domain.Core\\Interfaces\\Repositorys\\IRepositoryBase.cs",
+              "ToolTip": "C:\\GIT\\CadastroAPI\\CadastroAPi.Domain.Core\\Interfaces\\Repositorys\\IRepositoryBase.cs",
+              "RelativeToolTip": "CadastroAPi.Domain.Core\\Interfaces\\Repositorys\\IRepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:28:56.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepositoryPessoaFisica.cs",
+              "DocumentMoniker": "C:\\GIT\\CadastroAPI\\CadastroAPi.Domain.Core\\Interfaces\\Repositorys\\IRepositoryPessoaFisica.cs",
+              "RelativeDocumentMoniker": "CadastroAPi.Domain.Core\\Interfaces\\Repositorys\\IRepositoryPessoaFisica.cs",
+              "ToolTip": "C:\\GIT\\CadastroAPI\\CadastroAPi.Domain.Core\\Interfaces\\Repositorys\\IRepositoryPessoaFisica.cs",
+              "RelativeToolTip": "CadastroAPi.Domain.Core\\Interfaces\\Repositorys\\IRepositoryPessoaFisica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:28:55.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
