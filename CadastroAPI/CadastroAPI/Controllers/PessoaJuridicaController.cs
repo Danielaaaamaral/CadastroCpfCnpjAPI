@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace CadastroAPI.Controllers
 {
     [ApiController]
-    [Route("api/v{version:apiVersion}/juridica")]
+    [Route("api/juridica")]
     public class PessoaJuridicaController : Controller
     {
         private readonly IAppServiceJuridica _serviceJuridica;
