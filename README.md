@@ -1,6 +1,6 @@
 <b>Criar tabelas no banco de dados relacional sqlServer </b>
 
-<p>CREATE TABLE pessoa_fisica (
+<p>CREATE TABLE PessoaFisica (
 	id CHAR(36) NOT NULL, -- Campo para armazenar GUIDs, geralmente com 36 caracteres
     cpf VARCHAR(11) NOT NULL, -- CPF geralmente possui 11 caracteres
     nome VARCHAR(255) NOT NULL, -- Nome com tamanho padrão de até 255 caracteres
@@ -11,7 +11,7 @@
     PRIMARY KEY (id) -- Definindo o CPF como chave primária
 );</p>
 
-<p>CREATE TABLE pessoa_juridica (
+<p>CREATE TABLE PessoaJuridica (
     id CHAR(36) NOT NULL, -- Campo para armazenar GUIDs, geralmente com 36 caracteres
     cnpj VARCHAR(14) NOT NULL, -- CNPJ com 14 caracteres
     razaoSocial VARCHAR(255) NOT NULL, -- Razão social com até 255 caracteres
