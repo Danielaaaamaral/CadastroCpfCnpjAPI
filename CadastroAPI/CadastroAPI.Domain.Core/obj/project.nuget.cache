@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0pWlKguNDSoegk2YaHFvp1h1UguqmtZPK+h2dos64mLinqdsXGGHI8O8EzbdhCfSbTpFBoGz8v6vhL21sukaow==",
+  "dgSpecHash": "tBVV2pgXPqF00P5EMeOxW9SGXQ/33GcWIHhGtlKRRRYPuKV8y2lI9cBOpFuuTnlg0MsAcvfTjGyD8xbgJX+GMg==",
   "success": true,
-  "projectFilePath": "C:\\GIT\\CadastroAPI\\CadastroAPI.Domain.Core\\CadastroAPI.Domain.Core.csproj",
+  "projectFilePath": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Domain.Core\\CadastroAPI.Domain.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

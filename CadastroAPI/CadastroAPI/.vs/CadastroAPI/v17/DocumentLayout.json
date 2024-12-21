@@ -1,37 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\GIT\\CadastroAPI\\CadastroAPI\\",
+  "WorkspaceRootPath": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80738B8E-FB1C-42BE-9403-7678891DA3EA}|CadastroAPI.csproj|c:\\git\\cadastroapi\\cadastroapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80738B8E-FB1C-42BE-9403-7678891DA3EA}|CadastroAPI.csproj|c:\\git\\cadastrocpfcnpjapi\\cadastroapi\\cadastroapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80738B8E-FB1C-42BE-9403-7678891DA3EA}|CadastroAPI.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80738B8E-FB1C-42BE-9403-7678891DA3EA}|CadastroAPI.csproj|c:\\git\\cadastrocpfcnpjapi\\cadastroapi\\cadastroapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80738B8E-FB1C-42BE-9403-7678891DA3EA}|CadastroAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B432A990-E745-486D-B34F-A440C69195CC}|..\\CadastroAPI.Infrastructure.IOC\\CadastroAPI.Infrastructure.IOC.csproj|c:\\git\\cadastroapi\\cadastroapi.infrastructure.ioc\\configurationioc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80738B8E-FB1C-42BE-9403-7678891DA3EA}|CadastroAPI.csproj|c:\\git\\cadastroapi\\cadastroapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{80738B8E-FB1C-42BE-9403-7678891DA3EA}|CadastroAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80738B8E-FB1C-42BE-9403-7678891DA3EA}|CadastroAPI.csproj|c:\\git\\cadastroapi\\cadastroapi\\cadastroapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{80738B8E-FB1C-42BE-9403-7678891DA3EA}|CadastroAPI.csproj|solutionrelative:cadastroapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80738B8E-FB1C-42BE-9403-7678891DA3EA}|CadastroAPI.csproj|c:\\git\\cadastroapi\\cadastroapi\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{80738B8E-FB1C-42BE-9403-7678891DA3EA}|CadastroAPI.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80738B8E-FB1C-42BE-9403-7678891DA3EA}|CadastroAPI.csproj|c:\\git\\cadastroapi\\cadastroapi\\controllers\\pessoafisicacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80738B8E-FB1C-42BE-9403-7678891DA3EA}|CadastroAPI.csproj|solutionrelative:controllers\\pessoafisicacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80738B8E-FB1C-42BE-9403-7678891DA3EA}|CadastroAPI.csproj|c:\\git\\cadastroapi\\cadastroapi\\controllers\\pessoajuridicacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80738B8E-FB1C-42BE-9403-7678891DA3EA}|CadastroAPI.csproj|solutionrelative:controllers\\pessoajuridicacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80738B8E-FB1C-42BE-9403-7678891DA3EA}|CadastroAPI.csproj|c:\\git\\cadastroapi\\cadastroapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{80738B8E-FB1C-42BE-9403-7678891DA3EA}|CadastroAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,105 +51,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ConfigurationIOC.cs",
-              "DocumentMoniker": "C:\\GIT\\CadastroAPI\\CadastroAPI.Infrastructure.IOC\\ConfigurationIOC.cs",
-              "RelativeDocumentMoniker": "..\\CadastroAPI.Infrastructure.IOC\\ConfigurationIOC.cs",
-              "ToolTip": "C:\\GIT\\CadastroAPI\\CadastroAPI.Infrastructure.IOC\\ConfigurationIOC.cs",
-              "RelativeToolTip": "..\\CadastroAPI.Infrastructure.IOC\\ConfigurationIOC.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAjwBEAAAAhAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAwwA0AAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T20:16:01.543Z",
+              "WhenOpened": "2024-12-21T00:41:11.659Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\GIT\\CadastroAPI\\CadastroAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\GIT\\CadastroAPI\\CadastroAPI\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAAACQAAAAPAAAA",
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T19:30:10.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": ".dockerignore",
-              "DocumentMoniker": "C:\\GIT\\CadastroAPI\\CadastroAPI\\.dockerignore",
-              "RelativeDocumentMoniker": ".dockerignore",
-              "ToolTip": "C:\\GIT\\CadastroAPI\\CadastroAPI\\.dockerignore",
-              "RelativeToolTip": ".dockerignore",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-20T19:30:03.39Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\GIT\\CadastroAPI\\CadastroAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\GIT\\CadastroAPI\\CadastroAPI\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-20T18:58:14.601Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\GIT\\CadastroAPI\\CadastroAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\GIT\\CadastroAPI\\CadastroAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-20T18:51:20.15Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CadastroAPI.http",
-              "DocumentMoniker": "C:\\GIT\\CadastroAPI\\CadastroAPI\\CadastroAPI.http",
-              "RelativeDocumentMoniker": "CadastroAPI.http",
-              "ToolTip": "C:\\GIT\\CadastroAPI\\CadastroAPI\\CadastroAPI.http",
-              "RelativeToolTip": "CadastroAPI.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-12-20T18:51:09.355Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PessoaJuridicaController.cs",
-              "DocumentMoniker": "C:\\GIT\\CadastroAPI\\CadastroAPI\\Controllers\\PessoaJuridicaController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PessoaJuridicaController.cs",
-              "ToolTip": "C:\\GIT\\CadastroAPI\\CadastroAPI\\Controllers\\PessoaJuridicaController.cs",
-              "RelativeToolTip": "Controllers\\PessoaJuridicaController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T18:13:07.952Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PessoaFisicaController.cs",
-              "DocumentMoniker": "C:\\GIT\\CadastroAPI\\CadastroAPI\\Controllers\\PessoaFisicaController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PessoaFisicaController.cs",
-              "ToolTip": "C:\\GIT\\CadastroAPI\\CadastroAPI\\Controllers\\PessoaFisicaController.cs",
-              "RelativeToolTip": "Controllers\\PessoaFisicaController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T18:12:49.49Z",
+              "WhenOpened": "2024-12-21T00:40:06.787Z",
               "EditorCaption": ""
             }
           ]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/uZ7I+Gn1re8Btt6qKaC1ggwfqgy7btin2uUCq7KsYdND36CmfkZwTP1RaIZno770re/jmogSMTKcnG9y0Q5ag==",
+  "dgSpecHash": "2sbwuywNaGSM84tiw/oC0iuoHCqfsRBO0pxR6njYGlabGhcPvCsqpD1y/vu0L3bM4x9RDQ0d2Q6klZvEXeWfjA==",
   "success": true,
-  "projectFilePath": "C:\\GIT\\CadastroAPI\\CadastroAPI.Application\\CadastroAPI.Application.csproj",
+  "projectFilePath": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Application\\CadastroAPI.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danie\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",

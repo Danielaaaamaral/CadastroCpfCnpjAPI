@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GIT\\CadastroAPI\\CadastroAPI.Domain\\CadastroAPI.Domain.csproj",
+      "projectUniqueName": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Domain\\CadastroAPI.Domain.csproj",
       "projectName": "CadastroAPI.Domain",
-      "projectPath": "C:\\GIT\\CadastroAPI\\CadastroAPI.Domain\\CadastroAPI.Domain.csproj",
+      "projectPath": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Domain\\CadastroAPI.Domain.csproj",
       "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-      "outputPath": "C:\\GIT\\CadastroAPI\\CadastroAPI.Domain\\obj\\",
+      "outputPath": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

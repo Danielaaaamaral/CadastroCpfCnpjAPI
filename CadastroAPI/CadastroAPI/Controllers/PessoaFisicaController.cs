@@ -5,7 +5,6 @@ using Microsoft.AspNetCore.Mvc;
 namespace CadastroAPI.Controllers
 {
     [ApiController]
-    [ApiVersion("1.0")]
     [Route("api/v{version:apiVersion}/fisica")]
     public class PessoaFisicaController : Controller
     {
@@ -89,9 +88,6 @@ namespace CadastroAPI.Controllers
             }
 
         }
-        public IActionResult Index()
-        {
-            return View();
-        }
+       
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CadastroAPI.Infrastructure.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3d21fc1b15f9e7480a36e69ed7078f343f4e7fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("CadastroAPI.Infrastructure.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CadastroAPI.Infrastructure.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

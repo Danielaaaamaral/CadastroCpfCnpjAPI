@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "858+mYUbqZCdyrZ6lUjYZZBP5DRpAb43BaOmAlSOHn9Kh+tPij6tbB790WUa4MGDyaRyKVLgTosNGjmHFZ4hFg==",
+  "dgSpecHash": "jpQMiG64JRHvD50aibFY9BCHABQI7M48o496pT9KDBQOki+H7SZUWF1aV5Xpb1RsuwpEinQKtupC/UR04VePkw==",
   "success": true,
-  "projectFilePath": "C:\\GIT\\CadastroAPI\\CadastroAPi.Infrastructure.Data\\CadastroAPI.Infrastructure.Data.csproj",
+  "projectFilePath": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPi.Infrastructure.Data\\CadastroAPI.Infrastructure.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danie\\.nuget\\packages\\entityframework\\6.5.1\\entityframework.6.5.1.nupkg.sha512",
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

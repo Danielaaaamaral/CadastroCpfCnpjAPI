@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CtJm2QV1wzXMKvJwWS3Kcsk2le/4O/0V2geh21OauBTAhHyDtbJluHi5QM1aQ7w6GasEDXxaOJFyyBJZLHvcNg==",
+  "dgSpecHash": "kD8p5wxFJN8qvfNpnK0kso8Yucw5sqk5WwKsTIHGvjAIlExOfyOYCsfyjaTgeQRzFraQmnklivFnMGJYT0X0Lw==",
   "success": true,
-  "projectFilePath": "C:\\GIT\\CadastroAPI\\CadastroAPI.Infrastructure.IOC\\CadastroAPI.Infrastructure.IOC.csproj",
+  "projectFilePath": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Infrastructure.IOC\\CadastroAPI.Infrastructure.IOC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danie\\.nuget\\packages\\autofac\\8.2.0\\autofac.8.2.0.nupkg.sha512",
     "C:\\Users\\danie\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",

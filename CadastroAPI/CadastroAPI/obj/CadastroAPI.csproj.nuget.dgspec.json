@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GIT\\CadastroAPI\\CadastroAPI\\CadastroAPI.csproj": {}
+    "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI\\CadastroAPI.csproj": {}
   },
   "projects": {
-    "C:\\GIT\\CadastroAPI\\CadastroAPI.Application\\CadastroAPI.Application.csproj": {
+    "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Application\\CadastroAPI.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GIT\\CadastroAPI\\CadastroAPI.Application\\CadastroAPI.Application.csproj",
+        "projectUniqueName": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Application\\CadastroAPI.Application.csproj",
         "projectName": "CadastroAPI.Application",
-        "projectPath": "C:\\GIT\\CadastroAPI\\CadastroAPI.Application\\CadastroAPI.Application.csproj",
+        "projectPath": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Application\\CadastroAPI.Application.csproj",
         "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "C:\\GIT\\CadastroAPI\\CadastroAPI.Application\\obj\\",
+        "outputPath": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\GIT\\CadastroAPI\\CadastroAPI.Domain.Core\\CadastroAPI.Domain.Core.csproj": {
-                "projectPath": "C:\\GIT\\CadastroAPI\\CadastroAPI.Domain.Core\\CadastroAPI.Domain.Core.csproj"
+              "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Domain.Core\\CadastroAPI.Domain.Core.csproj": {
+                "projectPath": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Domain.Core\\CadastroAPI.Domain.Core.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "C:\\GIT\\CadastroAPI\\CadastroAPI.Domain.Core\\CadastroAPI.Domain.Core.csproj": {
+    "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Domain.Core\\CadastroAPI.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GIT\\CadastroAPI\\CadastroAPI.Domain.Core\\CadastroAPI.Domain.Core.csproj",
+        "projectUniqueName": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Domain.Core\\CadastroAPI.Domain.Core.csproj",
         "projectName": "CadastroAPI.Domain.Core",
-        "projectPath": "C:\\GIT\\CadastroAPI\\CadastroAPI.Domain.Core\\CadastroAPI.Domain.Core.csproj",
+        "projectPath": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Domain.Core\\CadastroAPI.Domain.Core.csproj",
         "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "C:\\GIT\\CadastroAPI\\CadastroAPI.Domain.Core\\obj\\",
+        "outputPath": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -110,8 +110,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\GIT\\CadastroAPI\\CadastroAPI.Domain\\CadastroAPI.Domain.csproj": {
-                "projectPath": "C:\\GIT\\CadastroAPI\\CadastroAPI.Domain\\CadastroAPI.Domain.csproj"
+              "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Domain\\CadastroAPI.Domain.csproj": {
+                "projectPath": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Domain\\CadastroAPI.Domain.csproj"
               }
             }
           }
@@ -150,14 +150,14 @@
         }
       }
     },
-    "C:\\GIT\\CadastroAPI\\CadastroAPI.Domain.Services\\CadastroAPI.Domain.Services.csproj": {
+    "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Domain.Services\\CadastroAPI.Domain.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GIT\\CadastroAPI\\CadastroAPI.Domain.Services\\CadastroAPI.Domain.Services.csproj",
+        "projectUniqueName": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Domain.Services\\CadastroAPI.Domain.Services.csproj",
         "projectName": "CadastroAPI.Domain.Services",
-        "projectPath": "C:\\GIT\\CadastroAPI\\CadastroAPI.Domain.Services\\CadastroAPI.Domain.Services.csproj",
+        "projectPath": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Domain.Services\\CadastroAPI.Domain.Services.csproj",
         "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "C:\\GIT\\CadastroAPI\\CadastroAPI.Domain.Services\\obj\\",
+        "outputPath": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Domain.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -178,8 +178,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\GIT\\CadastroAPI\\CadastroAPI.Domain.Core\\CadastroAPI.Domain.Core.csproj": {
-                "projectPath": "C:\\GIT\\CadastroAPI\\CadastroAPI.Domain.Core\\CadastroAPI.Domain.Core.csproj"
+              "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Domain.Core\\CadastroAPI.Domain.Core.csproj": {
+                "projectPath": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Domain.Core\\CadastroAPI.Domain.Core.csproj"
               }
             }
           }
@@ -218,14 +218,14 @@
         }
       }
     },
-    "C:\\GIT\\CadastroAPI\\CadastroAPI.Domain\\CadastroAPI.Domain.csproj": {
+    "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Domain\\CadastroAPI.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GIT\\CadastroAPI\\CadastroAPI.Domain\\CadastroAPI.Domain.csproj",
+        "projectUniqueName": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Domain\\CadastroAPI.Domain.csproj",
         "projectName": "CadastroAPI.Domain",
-        "projectPath": "C:\\GIT\\CadastroAPI\\CadastroAPI.Domain\\CadastroAPI.Domain.csproj",
+        "projectPath": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Domain\\CadastroAPI.Domain.csproj",
         "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "C:\\GIT\\CadastroAPI\\CadastroAPI.Domain\\obj\\",
+        "outputPath": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -282,14 +282,14 @@
         }
       }
     },
-    "C:\\GIT\\CadastroAPI\\CadastroAPi.Infrastructure.Data\\CadastroAPI.Infrastructure.Data.csproj": {
+    "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPi.Infrastructure.Data\\CadastroAPI.Infrastructure.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GIT\\CadastroAPI\\CadastroAPi.Infrastructure.Data\\CadastroAPI.Infrastructure.Data.csproj",
+        "projectUniqueName": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPi.Infrastructure.Data\\CadastroAPI.Infrastructure.Data.csproj",
         "projectName": "CadastroAPI.Infrastructure.Data",
-        "projectPath": "C:\\GIT\\CadastroAPI\\CadastroAPi.Infrastructure.Data\\CadastroAPI.Infrastructure.Data.csproj",
+        "projectPath": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPi.Infrastructure.Data\\CadastroAPI.Infrastructure.Data.csproj",
         "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "C:\\GIT\\CadastroAPI\\CadastroAPi.Infrastructure.Data\\obj\\",
+        "outputPath": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPi.Infrastructure.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -310,11 +310,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\GIT\\CadastroAPI\\CadastroAPI.Domain.Core\\CadastroAPI.Domain.Core.csproj": {
-                "projectPath": "C:\\GIT\\CadastroAPI\\CadastroAPI.Domain.Core\\CadastroAPI.Domain.Core.csproj"
+              "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Domain.Core\\CadastroAPI.Domain.Core.csproj": {
+                "projectPath": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Domain.Core\\CadastroAPI.Domain.Core.csproj"
               },
-              "C:\\GIT\\CadastroAPI\\CadastroAPI.Domain\\CadastroAPI.Domain.csproj": {
-                "projectPath": "C:\\GIT\\CadastroAPI\\CadastroAPI.Domain\\CadastroAPI.Domain.csproj"
+              "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Domain\\CadastroAPI.Domain.csproj": {
+                "projectPath": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Domain\\CadastroAPI.Domain.csproj"
               }
             }
           }
@@ -363,14 +363,14 @@
         }
       }
     },
-    "C:\\GIT\\CadastroAPI\\CadastroAPI.Infrastructure.IOC\\CadastroAPI.Infrastructure.IOC.csproj": {
+    "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Infrastructure.IOC\\CadastroAPI.Infrastructure.IOC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GIT\\CadastroAPI\\CadastroAPI.Infrastructure.IOC\\CadastroAPI.Infrastructure.IOC.csproj",
+        "projectUniqueName": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Infrastructure.IOC\\CadastroAPI.Infrastructure.IOC.csproj",
         "projectName": "CadastroAPI.Infrastructure.IOC",
-        "projectPath": "C:\\GIT\\CadastroAPI\\CadastroAPI.Infrastructure.IOC\\CadastroAPI.Infrastructure.IOC.csproj",
+        "projectPath": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Infrastructure.IOC\\CadastroAPI.Infrastructure.IOC.csproj",
         "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "C:\\GIT\\CadastroAPI\\CadastroAPI.Infrastructure.IOC\\obj\\",
+        "outputPath": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Infrastructure.IOC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -391,14 +391,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\GIT\\CadastroAPI\\CadastroAPI.Application\\CadastroAPI.Application.csproj": {
-                "projectPath": "C:\\GIT\\CadastroAPI\\CadastroAPI.Application\\CadastroAPI.Application.csproj"
+              "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Application\\CadastroAPI.Application.csproj": {
+                "projectPath": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Application\\CadastroAPI.Application.csproj"
               },
-              "C:\\GIT\\CadastroAPI\\CadastroAPI.Domain.Services\\CadastroAPI.Domain.Services.csproj": {
-                "projectPath": "C:\\GIT\\CadastroAPI\\CadastroAPI.Domain.Services\\CadastroAPI.Domain.Services.csproj"
+              "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Domain.Services\\CadastroAPI.Domain.Services.csproj": {
+                "projectPath": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Domain.Services\\CadastroAPI.Domain.Services.csproj"
               },
-              "C:\\GIT\\CadastroAPI\\CadastroAPi.Infrastructure.Data\\CadastroAPI.Infrastructure.Data.csproj": {
-                "projectPath": "C:\\GIT\\CadastroAPI\\CadastroAPi.Infrastructure.Data\\CadastroAPI.Infrastructure.Data.csproj"
+              "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPi.Infrastructure.Data\\CadastroAPI.Infrastructure.Data.csproj": {
+                "projectPath": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPi.Infrastructure.Data\\CadastroAPI.Infrastructure.Data.csproj"
               }
             }
           }
@@ -443,14 +443,14 @@
         }
       }
     },
-    "C:\\GIT\\CadastroAPI\\CadastroAPI\\CadastroAPI.csproj": {
+    "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI\\CadastroAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GIT\\CadastroAPI\\CadastroAPI\\CadastroAPI.csproj",
+        "projectUniqueName": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI\\CadastroAPI.csproj",
         "projectName": "CadastroAPI",
-        "projectPath": "C:\\GIT\\CadastroAPI\\CadastroAPI\\CadastroAPI.csproj",
+        "projectPath": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI\\CadastroAPI.csproj",
         "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "C:\\GIT\\CadastroAPI\\CadastroAPI\\obj\\",
+        "outputPath": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -471,14 +471,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\GIT\\CadastroAPI\\CadastroAPI.Application\\CadastroAPI.Application.csproj": {
-                "projectPath": "C:\\GIT\\CadastroAPI\\CadastroAPI.Application\\CadastroAPI.Application.csproj"
+              "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Application\\CadastroAPI.Application.csproj": {
+                "projectPath": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Application\\CadastroAPI.Application.csproj"
               },
-              "C:\\GIT\\CadastroAPI\\CadastroAPi.Infrastructure.Data\\CadastroAPI.Infrastructure.Data.csproj": {
-                "projectPath": "C:\\GIT\\CadastroAPI\\CadastroAPi.Infrastructure.Data\\CadastroAPI.Infrastructure.Data.csproj"
+              "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPi.Infrastructure.Data\\CadastroAPI.Infrastructure.Data.csproj": {
+                "projectPath": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPi.Infrastructure.Data\\CadastroAPI.Infrastructure.Data.csproj"
               },
-              "C:\\GIT\\CadastroAPI\\CadastroAPI.Infrastructure.IOC\\CadastroAPI.Infrastructure.IOC.csproj": {
-                "projectPath": "C:\\GIT\\CadastroAPI\\CadastroAPI.Infrastructure.IOC\\CadastroAPI.Infrastructure.IOC.csproj"
+              "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Infrastructure.IOC\\CadastroAPI.Infrastructure.IOC.csproj": {
+                "projectPath": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI.Infrastructure.IOC\\CadastroAPI.Infrastructure.IOC.csproj"
               }
             }
           }
@@ -498,13 +498,29 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Mvc.Versioning": {
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.ApiExplorer": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer": {
               "target": "Package",
               "version": "[5.1.0, )"
             },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
             },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
