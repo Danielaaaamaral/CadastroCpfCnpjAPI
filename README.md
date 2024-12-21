@@ -1,5 +1,6 @@
-Criar tabelas no banco de dados relacional sqlServer 
-CREATE TABLE pessoa_fisica (
+<b>Criar tabelas no banco de dados relacional sqlServer </b>
+
+<p>CREATE TABLE pessoa_fisica (
 	id CHAR(36) NOT NULL, -- Campo para armazenar GUIDs, geralmente com 36 caracteres
     cpf VARCHAR(11) NOT NULL, -- CPF geralmente possui 11 caracteres
     nome VARCHAR(255) NOT NULL, -- Nome com tamanho padrão de até 255 caracteres
@@ -8,9 +9,9 @@ CREATE TABLE pessoa_fisica (
     estadoCivil VARCHAR(50), -- Estado civil com tamanho ajustável
     email VARCHAR(255), -- Email com tamanho padrão de até 255 caracteres
     PRIMARY KEY (id) -- Definindo o CPF como chave primária
-);
+);</p>
 
-CREATE TABLE pessoa_juridica (
+<p>CREATE TABLE pessoa_juridica (
     id CHAR(36) NOT NULL, -- Campo para armazenar GUIDs, geralmente com 36 caracteres
     cnpj VARCHAR(14) NOT NULL, -- CNPJ com 14 caracteres
     razaoSocial VARCHAR(255) NOT NULL, -- Razão social com até 255 caracteres
@@ -18,9 +19,10 @@ CREATE TABLE pessoa_juridica (
     nomeFantasia VARCHAR(255), -- Nome fantasia com até 255 caracteres
     atividadeDesenvolvida TEXT, -- Descrição da atividade desenvolvida
     PRIMARY KEY (id) -- Definindo o ID como chave primária
-);
+);</p>
 
-Modificar conenctString no arquivo "appsettings.json" referenciar o banco que as tabelas foram criadas
+<b> Modificar conenctString no arquivo "appsettings.json" referenciar o banco que as tabelas foram criadas </b>
+
  "SqlConnection": {
    "SqlConnectionString": "Server=localhost;Database=DDD;User Id=sa;Password=1q2w3e4r@#$;"
  }
