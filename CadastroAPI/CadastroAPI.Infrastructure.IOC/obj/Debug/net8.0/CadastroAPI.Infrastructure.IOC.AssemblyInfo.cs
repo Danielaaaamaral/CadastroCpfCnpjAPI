@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CadastroAPI.Infrastructure.IOC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3d21fc1b15f9e7480a36e69ed7078f343f4e7fe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc1bd551c87a1d2d6c3f3ba60def5610e3def9c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("CadastroAPI.Infrastructure.IOC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CadastroAPI.Infrastructure.IOC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

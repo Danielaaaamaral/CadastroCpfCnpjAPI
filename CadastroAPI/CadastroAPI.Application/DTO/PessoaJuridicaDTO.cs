@@ -5,6 +5,8 @@ namespace CadastroAPI.Application.DTO
 {
     public class PessoaJuridicaDTO
     {
+        [JsonProperty("id")]
+        public Guid id { get; set; }
         [JsonProperty("cnpj")]
         public string Cnpj { get; set; }
         [JsonProperty("razaoSocial")]

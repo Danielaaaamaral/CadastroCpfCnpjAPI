@@ -3,21 +3,6 @@
   "WorkspaceRootPath": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80738B8E-FB1C-42BE-9403-7678891DA3EA}|CadastroAPI.csproj|c:\\git\\cadastrocpfcnpjapi\\cadastroapi\\cadastroapi\\controllers\\pessoajuridicacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80738B8E-FB1C-42BE-9403-7678891DA3EA}|CadastroAPI.csproj|solutionrelative:controllers\\pessoajuridicacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80738B8E-FB1C-42BE-9403-7678891DA3EA}|CadastroAPI.csproj|c:\\git\\cadastrocpfcnpjapi\\cadastroapi\\cadastroapi\\controllers\\pessoafisicacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80738B8E-FB1C-42BE-9403-7678891DA3EA}|CadastroAPI.csproj|solutionrelative:controllers\\pessoafisicacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F596606-23A9-48CD-B459-214D8F55DD89}|..\\CadastroAPi.Infrastructure.Data\\CadastroAPI.Infrastructure.Data.csproj|c:\\git\\cadastrocpfcnpjapi\\cadastroapi\\cadastroapi.infrastructure.data\\sqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80738B8E-FB1C-42BE-9403-7678891DA3EA}|CadastroAPI.csproj|c:\\git\\cadastrocpfcnpjapi\\cadastroapi\\cadastroapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{80738B8E-FB1C-42BE-9403-7678891DA3EA}|CadastroAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{80738B8E-FB1C-42BE-9403-7678891DA3EA}|CadastroAPI.csproj|c:\\git\\cadastrocpfcnpjapi\\cadastroapi\\cadastroapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80738B8E-FB1C-42BE-9403-7678891DA3EA}|CadastroAPI.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -33,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -65,78 +50,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PessoaJuridicaController.cs",
-              "DocumentMoniker": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI\\Controllers\\PessoaJuridicaController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PessoaJuridicaController.cs",
-              "ToolTip": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI\\Controllers\\PessoaJuridicaController.cs",
-              "RelativeToolTip": "Controllers\\PessoaJuridicaController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T13:41:55.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PessoaFisicaController.cs",
-              "DocumentMoniker": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI\\Controllers\\PessoaFisicaController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PessoaFisicaController.cs",
-              "ToolTip": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI\\Controllers\\PessoaFisicaController.cs",
-              "RelativeToolTip": "Controllers\\PessoaFisicaController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T13:41:43.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SqlContext.cs",
-              "DocumentMoniker": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPi.Infrastructure.Data\\SqlContext.cs",
-              "RelativeDocumentMoniker": "..\\CadastroAPi.Infrastructure.Data\\SqlContext.cs",
-              "ToolTip": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPi.Infrastructure.Data\\SqlContext.cs",
-              "RelativeToolTip": "..\\CadastroAPi.Infrastructure.Data\\SqlContext.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBAAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T00:58:41.019Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-21T00:51:47.418Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAwwA0AAAA6AAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA/wA0AAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T00:41:11.659Z"
+              "WhenOpened": "2024-12-21T00:41:11.659Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI\\Startup.cs",
               "RelativeDocumentMoniker": "Startup.cs",
               "ToolTip": "C:\\GIT\\CadastroCpfCnpjAPI\\CadastroAPI\\CadastroAPI\\Startup.cs",
               "RelativeToolTip": "Startup.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABNAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwBsAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T00:40:06.787Z"
+              "WhenOpened": "2024-12-21T00:40:06.787Z",
+              "EditorCaption": ""
             }
           ]
         }
